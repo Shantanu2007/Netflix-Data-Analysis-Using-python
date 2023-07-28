@@ -1,0 +1,23 @@
+This project is related to data analysis using Python pandas and Seaborn library for data visualization. I have applied various pandas library concepts using different Data-Framesv to complete this project.
+It answers the questions which are frequently asked after seeing the dataset. I have used Netflix Dataset as it is the most demanding. Data Analysis is something which is required to carry out for performing various operation
+for doing predictions and many more.
+I have answered the following questions.
+Q1. For 'House of Cards', what is the show id and who is the director of this show?
+Q2. In which year the highest number of TV shows and Movies were released? Show with Bar Graph.
+Q3. How many Movies and TV Shows are in the dataset? Show with Bar Graph
+Q4.Show all the movies released in the year 2000.
+Q5.Show only the Title of all TV shows that were released in India Only.
+Q6. Show Top 10 Directors, who gave the highest number of TV shows & Movies to Netflix?
+Q7. Show all the Records, where "Category is Movie and Type is Comedies" or "Country is the United Kingdom"
+Q8.In how many movies/shows, Tom Cruise was cast?
+Q9.What are the different Ratings defined by Netflix?
+Q9.1 How many Movies got the 'TV-14' rating? In Canada?
+Q9.2 How many TV shows got the 'R' rating, after the year 2018?
+Q10.What is the maximum duration of a Movie/Show on Netflix?
+Q11. Which Individual country has the Highest No. of TV Shows?
+Q12.How can we sort the dataset by year?
+Q13.Find all the Instances where:
+The category is 'Movie' and the Type is 'Dramas'
+or
+Category is 'TV Show' & Type is 'Kids TV'
+You can have source code in this repository.
