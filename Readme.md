@@ -1,1 +1,1 @@
-Netflix Data Analysis using Python(pandas,saeborn)
+Netflix Data Analysis using Python (pandas,seaborn) Librarys.
